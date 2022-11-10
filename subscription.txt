@@ -1,5 +1,5 @@
-! Title: FRANK Adblock List
-! Description: FRANK ads filters
+! Title: EKAPHONG Adblock List
+! Description: EKAPHONG ads filters
 ! Version: 202211101620
 ! Last modified: 10 Nov 2022 07:11 UTC+7
 ! Expires: 0 days
