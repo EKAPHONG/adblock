@@ -7,7 +7,7 @@
 ! License: -
 ! Reporting Issues: -
 ! Community: -
-! Download: https://raw.githubusercontent.com/EKAPHONG/adblock/heads/main/subscription.txt
+! Download: https://raw.githubusercontent.com/EKAPHONG/adblock/main/subscription.txt
 !
 !-------------- Block --------------
 
