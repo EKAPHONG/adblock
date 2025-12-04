@@ -1,7 +1,7 @@
 ! Title: EKAPHONG Adblock List
 ! Description: EKAPHONG ads filters
-! Version: 202510300958
-! Last modified: 30 Oct 2025 09:58 UTC+7
+! Version: 202512041334
+! Last modified: 04 Dec 2025 13:34 UTC+7
 ! Expires: 0 days
 ! Homepage: https://adblock.frank.in.th
 ! License: -
@@ -12,4 +12,5 @@
 !-------------- Block --------------
 
 !-------------- Movie --------------
-123hdtv.com##a[rel*="nofollow"]
+123hdtv.com##a[rel~="nofollow"]
+w4kmovie.com##a[rel~="sponsored"]
