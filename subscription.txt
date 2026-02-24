@@ -1,9 +1,9 @@
 ! Title: EKAPHONG Adblock List
 ! Description: EKAPHONG ads filters
-! Version: 202512041334
-! Last modified: 04 Dec 2025 13:34 UTC+7
+! Version: 202602241430
+! Last modified: 24 Feb 2026 14:30 UTC+7
 ! Expires: 0 days
-! Homepage: https://adblock.frank.in.th
+! Homepage: https://github.com/EKAPHONG/adblock
 ! License: -
 ! Reporting Issues: -
 ! Community: -
