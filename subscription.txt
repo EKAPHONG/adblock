@@ -12,5 +12,6 @@
 !-------------- Block --------------
 
 !-------------- Movie --------------
+037hddmovie.com##a[rel~="nofollow"]
 123hdtv.com##a[rel~="nofollow"]
 w4kmovie.com##a[rel~="sponsored"]
